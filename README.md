@@ -6,7 +6,7 @@ Rule Editor applications consists of the following:
    
 2. Create Rule Module from which user can select provided set of filters:
   
-3. This application is using ReactJs, MaterialUI and Express for backend operation. Currently a json file is being maintained which is updated best on the user input.
+3. This application is using ReactJs, MaterialUI and Express for backend operation. Currently a json file is being maintained which is updated based on the user input.
 
 ########################################################################################################
 Prerequisite:
