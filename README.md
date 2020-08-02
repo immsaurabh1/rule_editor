@@ -18,7 +18,8 @@ b. Open terminal or command prompt and run the instructions below.
 Steps:
 
 1. Go to folder via terminal/command prompt and run commands:
-   a. `npm i concurrently --save`
-   b. `npm run dev`
+   a. `cd server`
+   b. `npm i concurrently --save`
+   c. `npm run dev`
 2. This command is using concurrently `https://www.npmjs.com/package/concurrently` which will go to respective folders and install required dependencies.
 3. From your browser access localhost:3000/
